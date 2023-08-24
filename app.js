@@ -25,7 +25,6 @@ consumption.onclick=()=>{
 
 
 }
-// consumption.style.background="green"
 
 climate.onclick=()=>{
     body.style.background ="url(https://kq-storage.s3.ap-south-1.amazonaws.com/Github/earth/climate-change-bg%5B1%5D.png)"
@@ -40,7 +39,6 @@ climate.onclick=()=>{
 
     
 }
-// climate.style.backgroundColor="skyblue"
 
 resources.onclick=()=>{
     body.style.background ="url(https://kq-storage.s3.ap-south-1.amazonaws.com/Github/earth/natural-resources-bg%5B1%5D.png)"
@@ -54,7 +52,6 @@ resources.onclick=()=>{
 
     
 }
-// resources.style.backgroundColor="orange"
 people.onclick=()=>{
     body.style.background ="url(https://kq-storage.s3.ap-south-1.amazonaws.com/Github/earth/poverty-bg%5B1%5D.png)"
     body.style.backgroundSize="100%"
@@ -66,4 +63,3 @@ people.onclick=()=>{
     resources.style.backgroundColor="transparent"
 
 }
-// people.style.backgroundColor="red"
